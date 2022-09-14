@@ -1,1 +1,1 @@
-https://cleanyoutube.netlify.app
+https://cryptoexplore.netlify.app
